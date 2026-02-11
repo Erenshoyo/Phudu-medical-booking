@@ -1,0 +1,359 @@
+[
+  {
+    "doctor_id": 1,
+    "slug": "dr-stacy-graham",
+    "doctor_name": "Dr. Stacy Graham",
+    "image_url": "https://plus.unsplash.com/premium_photo-1661580574627-9211124e5c3f?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "education": "MBBS, MD - General Medicine",
+    "speciality": "General Physician",
+    "experience_years": 12,
+    "registration_number": "IMC-88291",
+    "fee": 50,
+    "currency": "USD",
+    "bio": "Specializing in holistic primary care and chronic disease management with a focus on preventive wellness.",
+    "rating": 4.8,
+    "total_reviews": 1240,
+    "location": "Green Valley Medical Center, New York",
+    "email": "aditi.sharma@medlink.com",
+    "consultation_type": [
+      "in-person",
+      "online"
+    ],
+    "available_days": [
+      "Monday",
+      "Wednesday",
+      "Friday"
+    ],
+    "available_time": {
+      "start": "09:00",
+      "end": "14:00"
+    }
+  },
+  {
+    "doctor_id": 2,
+    "slug": "dr-marcus-chen",
+    "doctor_name": "Dr. Marcus Chen",
+    "image_url": "https://plus.unsplash.com/premium_photo-1661764878654-3d0fc2eefcca?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "education": "MBBS, MS - Orthopaedics",
+    "speciality": "Orthopaedic Surgeon",
+    "experience_years": 15,
+    "registration_number": "KMC-44512",
+    "fee": 80,
+    "currency": "USD",
+    "bio": "Expert in sports injuries and joint replacement surgeries using minimally invasive techniques.",
+    "rating": 4.9,
+    "total_reviews": 850,
+    "location": "Central Ortho Clinic, Chicago",
+    "email": "m.chen@orthohealth.org",
+    "consultation_type": [
+      "in-person"
+    ],
+    "available_days": [
+      "Tuesday",
+      "Thursday",
+      "Saturday"
+    ],
+    "available_time": {
+      "start": "10:00",
+      "end": "16:00"
+    }
+  },
+  {
+    "doctor_id": 3,
+    "slug": "dr-sarah-jenkins",
+    "doctor_name": "Dr. Sarah Jenkins",
+    "image_url": "https://images.unsplash.com/photo-1594824476967-48c8b964273f?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "education": "MD, DM - Cardiology",
+    "speciality": "Cardiologist",
+    "experience_years": 20,
+    "registration_number": "DMC-10293",
+    "fee": 120,
+    "currency": "USD",
+    "bio": "Fellow of the American College of Cardiology, specializing in interventional cardiology and heart health.",
+    "rating": 5.0,
+    "total_reviews": 2100,
+    "location": "Heart & Vascular Institute, Seattle",
+    "email": "s.jenkins@heartcare.com",
+    "consultation_type": [
+      "in-person",
+      "online"
+    ],
+    "available_days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday"
+    ],
+    "available_time": {
+      "start": "08:00",
+      "end": "13:00"
+    }
+  },
+  {
+    "doctor_id": 4,
+    "slug": "dr-julian-voss",
+    "doctor_name": "Dr. Julian Voss",
+    "image_url": "https://images.unsplash.com/photo-1622253692010-333f2da6031d?q=80&w=764&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "education": "MBBS, MD - Pediatrics",
+    "speciality": "Pediatrician",
+    "experience_years": 8,
+    "registration_number": "BMC-55670",
+    "fee": 45,
+    "currency": "USD",
+    "bio": "Dedicated to providing compassionate care for children from infancy through adolescence.",
+    "rating": 4.7,
+    "total_reviews": 620,
+    "location": "Tiny Tots Clinic, Austin",
+    "email": "j.voss@pedscare.com",
+    "consultation_type": [
+      "in-person",
+      "online"
+    ],
+    "available_days": [
+      "Monday",
+      "Friday",
+      "Saturday"
+    ],
+    "available_time": {
+      "start": "09:00",
+      "end": "17:00"
+    }
+  },
+  {
+    "doctor_id": 5,
+    "slug": "dr-elena-rodriguez",
+    "doctor_name": "Dr. Elena Rodriguez",
+    "image_url": "https://plus.unsplash.com/premium_photo-1673953510158-174d4060db8b?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "education": "MBBS, MD - Dermatology",
+    "speciality": "Dermatologist",
+    "experience_years": 10,
+    "registration_number": "MMC-33419",
+    "fee": 70,
+    "currency": "USD",
+    "bio": "Specialist in cosmetic dermatology, laser treatments, and skin cancer screenings.",
+    "rating": 4.6,
+    "total_reviews": 940,
+    "location": "Radiance Skin Care, Miami",
+    "email": "e.rodriguez@dermaspan.com",
+    "consultation_type": [
+      "in-person",
+      "online"
+    ],
+    "available_days": [
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "available_time": {
+      "start": "11:00",
+      "end": "19:00"
+    }
+  },
+  {
+    "doctor_id": 6,
+    "slug": "dr-samuel-okoro",
+    "doctor_name": "Dr. Samuel Okoro",
+    "image_url": "https://images.unsplash.com/photo-1582750433449-648ed127bb54?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "education": "MD - Psychiatry",
+    "speciality": "Psychiatrist",
+    "experience_years": 14,
+    "registration_number": "GMC-99021",
+    "fee": 100,
+    "currency": "USD",
+    "bio": "Focusing on adult mental health, mood disorders, and cognitive therapy.",
+    "rating": 4.8,
+    "total_reviews": 410,
+    "location": "Mindwell Mental Health, Boston",
+    "email": "s.okoro@mindwell.org",
+    "consultation_type": [
+      "in-person",
+      "online"
+    ],
+    "available_days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "available_time": {
+      "start": "14:00",
+      "end": "20:00"
+    }
+  },
+  {
+    "doctor_id": 7,
+    "slug": "dr-linda-zhao",
+    "doctor_name": "Dr. Linda Zhao",
+    "image_url": "https://images.unsplash.com/photo-1662837775286-7e6258c7c595?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "education": "MBBS, MS - Obstetrics & Gynaecology",
+    "speciality": "Gynaecologist",
+    "experience_years": 18,
+    "registration_number": "RMC-77234",
+    "fee": 90,
+    "currency": "USD",
+    "bio": "Expert in high-risk pregnancy management and minimally invasive gynecological surgery.",
+    "rating": 4.9,
+    "total_reviews": 1500,
+    "location": "Women’s Wellness Hub, San Francisco",
+    "email": "l.zhao@womenshealth.com",
+    "consultation_type": [
+      "in-person",
+      "online"
+    ],
+    "available_days": [
+      "Monday",
+      "Wednesday",
+      "Friday"
+    ],
+    "available_time": {
+      "start": "08:30",
+      "end": "15:30"
+    }
+  },
+  {
+    "doctor_id": 8,
+    "slug": "dr-robert-miller",
+    "doctor_name": "Dr. Robert Miller",
+    "image_url": "https://images.unsplash.com/photo-1647763283644-578114aba0c2?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "education": "DDS, MDS - Oral Surgery",
+    "speciality": "Dentist",
+    "experience_years": 7,
+    "registration_number": "DCI-22310",
+    "fee": 60,
+    "currency": "USD",
+    "bio": "Advanced training in dental implants and restorative dentistry for a perfect smile.",
+    "rating": 4.5,
+    "total_reviews": 320,
+    "location": "Pearl White Dental, Denver",
+    "email": "r.miller@pearlywhites.com",
+    "consultation_type": [
+      "in-person"
+    ],
+    "available_days": [
+      "Tuesday",
+      "Wednesday",
+      "Saturday"
+    ],
+    "available_time": {
+      "start": "09:00",
+      "end": "17:00"
+    }
+  },
+  {
+    "doctor_id": 9,
+    "slug": "dr-aisha-khan",
+    "doctor_name": "Dr. Aisha Khan",
+    "image_url": "https://plus.unsplash.com/premium_photo-1664475543697-229156438e1e?q=80&w=686&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "education": "MBBS, MD - Ophthalmology",
+    "speciality": "Ophthalmologist",
+    "experience_years": 11,
+    "registration_number": "IMC-11209",
+    "fee": 65,
+    "currency": "USD",
+    "bio": "Specializing in cataract surgery and LASIK vision correction.",
+    "rating": 4.7,
+    "total_reviews": 780,
+    "location": "Clear Vision Eye Care, Houston",
+    "email": "a.khan@eyecare.org",
+    "consultation_type": [
+      "in-person"
+    ],
+    "available_days": [
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "available_time": {
+      "start": "10:00",
+      "end": "18:00"
+    }
+  },
+  {
+    "doctor_id": 10,
+    "slug": "dr-thomas-wright",
+    "doctor_name": "Dr. Thomas Wright",
+    "image_url": "https://plus.unsplash.com/premium_photo-1723514536306-26fe5c4adeb7?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "education": "MD, DM - Neurology",
+    "speciality": "Neurologist",
+    "experience_years": 22,
+    "registration_number": "KMC-66782",
+    "fee": 150,
+    "currency": "USD",
+    "bio": "Highly experienced in treating complex neurological disorders and epilepsy.",
+    "rating": 4.9,
+    "total_reviews": 1100,
+    "location": "NeuroScience Center, Philadelphia",
+    "email": "t.wright@neurocenter.com",
+    "consultation_type": [
+      "in-person",
+      "online"
+    ],
+    "available_days": [
+      "Monday",
+      "Tuesday",
+      "Friday"
+    ],
+    "available_time": {
+      "start": "08:00",
+      "end": "12:00"
+    }
+  },
+  {
+    "doctor_id": 11,
+    "slug": "dr-maria-costa",
+    "doctor_name": "Dr. Maria Costa",
+    "image_url": "https://images.unsplash.com/photo-1688588162416-f7a7e726e0bf?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "education": "MBBS, MD - Endocrinology",
+    "speciality": "Endocrinologist",
+    "experience_years": 9,
+    "registration_number": "DMC-44590",
+    "fee": 85,
+    "currency": "USD",
+    "bio": "Specialized in hormone health, diabetes management, and metabolic disorders.",
+    "rating": 4.6,
+    "total_reviews": 540,
+    "location": "Metro Endocrine Clinic, Atlanta",
+    "email": "m.costa@endocrine.org",
+    "consultation_type": [
+      "in-person",
+      "online"
+    ],
+    "available_days": [
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "available_time": {
+      "start": "13:00",
+      "end": "18:00"
+    }
+  },
+  {
+    "doctor_id": 12,
+    "slug": "dr-james-wilson",
+    "doctor_name": "Dr. James Wilson",
+    "image_url": "https://images.unsplash.com/photo-1642976482503-3f67b345dbac?q=80&w=631&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "education": "MBBS, MS - General Surgery",
+    "speciality": "General Surgeon",
+    "experience_years": 16,
+    "registration_number": "BMC-88123",
+    "fee": 110,
+    "currency": "USD",
+    "bio": "Focusing on abdominal surgeries and laparoscopy with a high success rate.",
+    "rating": 4.8,
+    "total_reviews": 920,
+    "location": "City General Hospital, Phoenix",
+    "email": "j.wilson@cityhospital.com",
+    "consultation_type": [
+      "in-person"
+    ],
+    "available_days": [
+      "Monday",
+      "Wednesday",
+      "Thursday"
+    ],
+    "available_time": {
+      "start": "07:00",
+      "end": "14:00"
+    }
+  }
+]
