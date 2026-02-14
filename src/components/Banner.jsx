@@ -28,7 +28,7 @@ const Banner = () => {
               value="Search Now"
             />
           </div>
-          <div className="flex justify-center gap-3 mt-10 mb-14">
+          <div className="flex justify-center gap-3 mt-10 mb-25">
             <img
               className="md:w-90 md:h-45 lg:w-144.5 lg:h-87.5 rounded-xl"
               src={bannerImage1}

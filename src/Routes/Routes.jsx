@@ -3,6 +3,7 @@ import { createBrowserRouter } from "react-router";
 import Root from "../pages/Root";
 import ErrorPage from "../pages/ErrorPage";
 import Home from "../pages/Home";
+import Blogs from "../components/Blogs";
 
 export const router = createBrowserRouter([
   {
@@ -13,11 +14,16 @@ export const router = createBrowserRouter([
       {
         index: true,
         path: "/",
-        // loader: async () => {
-        //   const response = await fetch("/public/DoctorData.json");
-        //   return response.json();
-        // },
+
         Component: Home,
+      },
+      {
+        path: "/blogs",
+        Component: Blogs,
+        loader: async() => {
+          const response = await fetch("/blogsData.json");
+          return response.json();
+        }
       },
     ],
   },

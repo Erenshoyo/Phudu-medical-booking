@@ -18,12 +18,12 @@ const DoctorCard = ({ doctor }) => {
   const isAvailable = checkAvailability(available_days, available_time);
   return (
     <div className="">
-      <div className="border rounded-xl p-4 shadow-sm hover:shadow-md transition-shadow bg-white flex flex-col">
-        <div className="w-full h-100 overflow-hidden rounded-lg mb-4 bg-gray-100">
+      <div className=" rounded-xl p-4 shadow-md hover:shadow-lg transition-shadow bg-white flex flex-col">
+        <div className="w-full h-100 overflow-hidden rounded-lg mb-4 bg-gray-100 p-6">
           <img
             src={image_url}
             alt={doctor_name}
-            className="w-full h-full object-cover"
+            className="w-full h-full object-cover rounded-xl"
           />
         </div>
         <div className="flex grow gap-3">
@@ -44,6 +44,7 @@ const DoctorCard = ({ doctor }) => {
         </div>
         <h1 className="text-xl font-bold text-gray-900">{doctor_name}</h1>
         <p className="text-gray-500 text-sm mb-4">{education}</p>
+        <hr className="text-slate-400"/>
         <p className="flex gap-2 items-center text-gray-600 text-sm mt-auto">
           <IdCard size={18} /> Reg No: {registration_number}
         </p>

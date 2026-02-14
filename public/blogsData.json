@@ -1,0 +1,72 @@
+[
+  {
+    "id": "b1",
+    "title": "10 Daily Habits That Keep Your Heart Healthy",
+    "author": "Dr. Aditi Sharma",
+    "date": "2026-01-12",
+    "category": "Cardiology",
+    "tags": ["heart health", "lifestyle", "prevention"],
+    "excerpt": "Small daily choices can make a big difference in protecting your heart.",
+    "content": "A healthy heart is the foundation of overall well-being. Cardiovascular disease remains one of the leading causes of death worldwide, yet many cases are preventable.\n\nOne of the most important habits is regular physical activity. Even 30 minutes of moderate exercise such as brisk walking can improve circulation and strengthen the heart muscle.\n\nA balanced diet rich in fruits, vegetables, whole grains, and lean proteins helps control cholesterol and blood pressure. Reducing salt, sugar, and saturated fat intake is equally important.\n\nStress management also plays a major role in heart health. Chronic stress raises blood pressure and contributes to unhealthy coping behaviors. Practices such as meditation, deep breathing, and adequate sleep can significantly lower risk.\n\nFinally, avoiding smoking and limiting alcohol consumption are essential steps toward a healthier heart and a longer life.",
+    "coverImage": "https://images.unsplash.com/photo-1580281657527-47f249e8f0a1",
+    "readTime": "5 min",
+    "views": 1240,
+    "status": "published"
+  },
+  {
+    "id": "b2",
+    "title": "Understanding Acne: Causes, Treatment, and Prevention",
+    "author": "Dr. Tanvir Rahman",
+    "date": "2026-01-28",
+    "category": "Dermatology",
+    "tags": ["skin care", "acne", "treatment"],
+    "excerpt": "Acne is more than a cosmetic issue—here’s what really causes it.",
+    "content": "Acne develops when hair follicles become clogged with oil and dead skin cells. Hormonal changes, genetics, and certain medications can increase the risk.\n\nTreatment depends on severity. Mild acne often responds to over-the-counter cleansers and topical treatments. Moderate to severe cases may require prescription medications.\n\nMaintaining good skincare habits is crucial. Gentle cleansing twice daily and avoiding harsh scrubs can prevent irritation.\n\nDiet and lifestyle choices also matter. A balanced diet, hydration, and proper sleep contribute to healthier skin.\n\nConsistency is key—most treatments take several weeks to show visible results.",
+    "coverImage": "https://images.unsplash.com/photo-1588776814546-1ffcf47267a5",
+    "readTime": "6 min",
+    "views": 980,
+    "status": "published"
+  },
+  {
+    "id": "b3",
+    "title": "How Stress Impacts Your Brain and Memory",
+    "author": "Dr. Emily Chen",
+    "date": "2026-02-05",
+    "category": "Neurology",
+    "tags": ["stress", "mental health", "brain"],
+    "excerpt": "Chronic stress silently reshapes how your brain works.",
+    "content": "Stress triggers the release of hormones such as cortisol. In short bursts, this response is helpful, but prolonged exposure can damage brain cells.\n\nChronic stress affects memory, concentration, and emotional regulation. People may experience forgetfulness, irritability, and difficulty focusing.\n\nRegular exercise, mindfulness practices, and social support can reduce stress levels.\n\nGetting adequate sleep is especially important, as sleep allows the brain to recover and process information.\n\nLearning healthy coping strategies early can protect long-term brain health.",
+    "coverImage": "https://images.unsplash.com/photo-1581091870622-7c4cbdc8b06f",
+    "readTime": "7 min",
+    "views": 1560,
+    "status": "published"
+  },
+  {
+    "id": "b4",
+    "title": "Why Quality Sleep Is Essential for Overall Health",
+    "author": "Dr. Sara Malik",
+    "date": "2026-02-14",
+    "category": "General Health",
+    "tags": ["sleep", "wellness", "mental health"],
+    "excerpt": "Sleep is not a luxury—it is a biological necessity.",
+    "content": "Sleep plays a critical role in physical recovery, emotional regulation, and cognitive performance. During deep sleep, the body repairs tissues, strengthens the immune system, and consolidates memory.\n\nChronic sleep deprivation increases the risk of heart disease, obesity, diabetes, and depression. It also impairs concentration and decision-making.\n\nMaintaining a consistent sleep schedule helps regulate the body’s internal clock. Going to bed and waking up at the same time each day improves sleep quality.\n\nReducing screen exposure before bedtime and creating a calm sleeping environment can further support restful sleep.\n\nPrioritizing sleep is one of the simplest yet most powerful steps toward long-term health.",
+    "coverImage": "https://images.unsplash.com/photo-1525097487452-6278ff080c31",
+    "readTime": "5 min",
+    "views": 890,
+    "status": "published"
+  },
+  {
+    "id": "b5",
+    "title": "Early Warning Signs of High Blood Pressure",
+    "author": "Dr. Hasan Ali",
+    "date": "2026-02-18",
+    "category": "Cardiology",
+    "tags": ["blood pressure", "hypertension", "prevention"],
+    "excerpt": "High blood pressure often develops silently—know the early clues.",
+    "content": "High blood pressure, or hypertension, is often called the silent killer because many people experience no obvious symptoms.\n\nSome early signs may include frequent headaches, dizziness, shortness of breath, or chest discomfort.\n\nRegular blood pressure monitoring is the most reliable way to detect hypertension early.\n\nLifestyle changes such as reducing salt intake, exercising regularly, and managing stress can significantly lower risk.\n\nEarly diagnosis and treatment help prevent complications like stroke, heart attack, and kidney disease.",
+    "coverImage": "https://images.unsplash.com/photo-1584036561584-b03c19da874c",
+    "readTime": "6 min",
+    "views": 1040,
+    "status": "published"
+  }
+]
