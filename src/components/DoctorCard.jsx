@@ -44,11 +44,16 @@ const DoctorCard = ({ doctor }) => {
         </div>
         <h1 className="text-xl font-bold text-gray-900">{doctor_name}</h1>
         <p className="text-gray-500 text-sm mb-4">{education}</p>
-        <hr className="text-slate-400"/>
+        <hr className="text-slate-400" />
         <p className="flex gap-2 items-center text-gray-600 text-sm mt-auto">
           <IdCard size={18} /> Reg No: {registration_number}
         </p>
-        <Link className="mt-4 block w-full text-center border border-blue-500 text-blue-500 font-semibold py-2 rounded-full hover:bg-blue-50 transition-colors">View Details</Link>
+        <Link
+          to={`/doctorDetails/${education}`}
+          className="mt-4 block w-full text-center border border-blue-500 text-blue-500 font-semibold py-2 rounded-full hover:bg-blue-50 transition-colors"
+        >
+          View Details
+        </Link>
       </div>
     </div>
   );
