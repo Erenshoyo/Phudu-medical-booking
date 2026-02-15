@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import phuduLogo from "../assets/fi_16340199.png";
 import { Link } from "react-router";
 
@@ -11,11 +11,20 @@ const navOptions = [
 ];
 
 const Navbar = () => {
+  const [active, setActive] = useState("Home");
+
+  const handleActiveStatus = (name) => {
+    setActive(name);
+  };
   // 2. Helper to render links
   const renderLinks = () =>
     navOptions.map((link) => (
       <li key={link.name}>
-        <Link to={link.path} className="">
+        <Link
+          to={link.path}
+          onClick={() => handleActiveStatus(link.name)}
+          className={active === link.name ? "bg-blue-400 text-white" : ""}
+        >
           {link.name}
         </Link>
       </li>

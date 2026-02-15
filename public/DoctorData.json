@@ -20,7 +20,7 @@
       "online"
     ],
     "available_days": [
-      "Monday",
+      "Sunday",
       "Wednesday",
       "Friday"
     ],
@@ -51,7 +51,7 @@
     "available_days": [
       "Tuesday",
       "Thursday",
-      "Saturday"
+      "Sunday"
     ],
     "available_time": {
       "start": "10:00",
