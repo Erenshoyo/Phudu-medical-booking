@@ -8,7 +8,15 @@ const DoctorDetails = () => {
   const data = useLoaderData();
   const navigate = useNavigate();
 
-  if (!data) return <div className="text-center py-20">Loading...</div>;
+  if (!data)
+    return (
+      <div className="text-center py-20">
+        <h1 className="text-3xl font-bold">No Doctor's found.</h1>
+        <Link to="/" className="btn mt-5 bg-blue-500 text-white rounded-2xl">
+          Go to homepage
+        </Link>
+      </div>
+    );
 
   const {
     doctor_name,

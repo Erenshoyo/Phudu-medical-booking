@@ -31,7 +31,7 @@ const Navbar = () => {
     ));
 
   return (
-    <div className="navbar bg-base-100 border border-slate-300 mt-5 rounded-2xl shadow-sm">
+    <div className="navbar bg-base-100 border border-slate-300 mt-5 rounded-2xl shadow-sm ">
       <div className="navbar-start">
         {/* Mobile Dropdown */}
         <div className="dropdown">
@@ -83,7 +83,7 @@ const Navbar = () => {
       <div className="navbar-end">
         <a
           href="/emergency"
-          className="btn bg-[#176AE5] hover:bg-[#1356b8] text-white rounded-full px-6"
+          className="btn bg-[#176AE5] hover:bg-[#1356b8] text-white rounded-full px-3 lg:px-6"
         >
           Emergency
         </a>

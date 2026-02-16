@@ -41,10 +41,49 @@ const Footer = () => {
         </div>
         <hr className="w-2/3 text-slate-300" />
         <div className="flex gap-4 mt-8 mb-20">
-          <img className="w-8 h-8" src={fbLogo} alt="logo" />
-          <img className="w-8 h-8" src={Xlogo} alt="logo" />
-          <img className="w-8 h-8" src={linkedInLogo} alt="logo" />
-          <img className="w-8 h-8" src={youtube} alt="logo" />
+          <a
+            href="https://www.facebook.com"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img
+              className="w-8 h-8 hover:scale-110 transition-transform"
+              src={fbLogo}
+              alt="Facebook"
+            />
+          </a>
+
+          <a href="https://www.x.com" target="_blank" rel="noopener noreferrer">
+            <img
+              className="w-8 h-8 hover:scale-110 transition-transform"
+              src={Xlogo}
+              alt="X"
+            />
+          </a>
+
+          <a
+            href="https://www.linkedin.com"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img
+              className="w-8 h-8 hover:scale-110 transition-transform"
+              src={linkedInLogo}
+              alt="LinkedIn"
+            />
+          </a>
+
+          <a
+            href="https://www.youtube.com"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img
+              className="w-8 h-8 hover:scale-110 transition-transform"
+              src={youtube}
+              alt="YouTube"
+            />
+          </a>
         </div>
       </div>
     </div>

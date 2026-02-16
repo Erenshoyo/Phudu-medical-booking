@@ -32,7 +32,7 @@ const Doctors = () => {
   };
 
   return (
-    <div className="w-2/3 mx-auto mb-10">
+    <div className="md:w-2/3 mx-auto mb-10">
       <div className="mt-30 mb-10 text-center">
         <h1 className="text-3xl font-bold">Our Best Doctors</h1>
         <p className="text-slate-500 mt-2">
@@ -56,7 +56,7 @@ const Doctors = () => {
         </button>
       </div>
 
-      {/* Medical Services */}
+
       <div className="my-20">
         <h1 className="text-center text-4xl leading-relaxed font-extrabold">
           We Provide Best Medical Services
@@ -78,7 +78,7 @@ const Doctors = () => {
                 alt={stat.label}
               />
               <h1 className="text-5xl font-extrabold ">
-                <CountUp end={stat.count} duration={2.5} />+
+                <CountUp end={stat.count} duration={10} />+
               </h1>
               <span className="text-gray-600 font-medium">{stat.label}</span>
             </div>
